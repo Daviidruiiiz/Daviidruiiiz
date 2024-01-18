@@ -1,7 +1,7 @@
 ### Hi there 👋
 # About Me
 
-My name is [Daviid]. I am a learning developer who have a little knowledge in multiple programming languages.
+My name is Daviid. I am a learning developer who have a little knowledge in multiple programming languages.
 
 Here are the programming languages I am familiar with:
 
@@ -14,7 +14,6 @@ Feel free to browse my projects or get in touch if you have any questions or wou
 
 Best Regards,
 
-[Daviid]
 <!--
 **Daviidruiiiz/Daviidruiiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
