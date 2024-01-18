@@ -14,7 +14,7 @@ Feel free to browse my projects or get in touch if you have any questions or wou
 - 🔭 I’m currently working on ShameV it is a FiveM server that I am developing with a friend
 - 🌱 I’m currently learning Lua,JS and Java
 
-Best Regards,
+
 
 <!--
 **Daviidruiiiz/Daviidruiiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
