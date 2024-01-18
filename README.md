@@ -11,6 +11,8 @@ Here are the programming languages I am familiar with:
 - <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" height="15"> HTML
 
 Feel free to browse my projects or get in touch if you have any questions or would like to collaborate on a project.
+- 🔭 I’m currently working on ShameV it is a FiveM server that I am developing with a friend
+- 🌱 I’m currently learning Lua,JS and Java
 
 Best Regards,
 
