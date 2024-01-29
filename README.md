@@ -2,7 +2,6 @@
 # About Me
 
 My name is Daviid. I am a learning developer who have a little knowledge in multiple programming languages.
-
 Here are the programming languages I am familiar with:
 
 - <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" height="15"> Java
@@ -11,7 +10,7 @@ Here are the programming languages I am familiar with:
 - <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" height="15"> HTML
 
 Feel free to browse my projects or get in touch if you have any questions or would like to collaborate on a project.
-- 🔭 I’m currently working on ShameV it is a FiveM server that I am developing with a friend @BetTD
+- 🔭 I’m currently working on ShameV it is a FiveM server that I am developing with a friend [@BetTD](https://github.com/BetTD)
 - 🌱 I’m currently learning Lua,JS and Java
 
 
